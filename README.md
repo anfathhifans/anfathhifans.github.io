@@ -1,6 +1,5 @@
-# Welcome to Plugin Collection
-Thank you for visiting my profile
-I hope my plugins will help you to make your tasks easier. 
+# Welcome to my CODE Library
+Thank you for visiting my profile. I hope my plugins will help you to make your tasks easier. 
 Touch with me for catching my experience and knowledge in cyber world
 
 ### My Plugins
